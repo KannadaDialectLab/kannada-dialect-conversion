@@ -1,0 +1,21 @@
+# Dataset
+Data/
+
+# Model files
+models/
+
+# Generated outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables / API keys
+.env
+.env.*
+!.env.example
